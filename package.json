@@ -1,0 +1,14 @@
+{
+  "name": "alura-geek",
+  "version": "1.0.0",
+  "description": "e-commerce frontend",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./data/products.json --port 3000"
+  },
+  "author": "Camila Arce",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}

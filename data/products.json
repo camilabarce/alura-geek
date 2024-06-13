@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Apple Watch Series 7 GPS",
+            "price": 599,
+            "img": "./assets/apple-watch-pcq.png"
+        },
+        {
+            "id": 2,
+            "name": "AirPods Pro",
+            "price": 800, 
+            "img": "./assets/airpods-pro.png"
+        },
+        {
+            "id": 3,
+            "name": "MacBook Pro",
+            "price": 1300,
+            "img": "./assets/macbook-pro.png"
+        },
+        {
+            "id": 4,
+            "name": "IPhone 15 Blue Titanium",
+            "price": 1400,
+            "img": "./assets/iphone15.png"
+        }
+    ]
+}
